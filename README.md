@@ -3,7 +3,7 @@
   I pursue programming and computer science both as a hobby and academically.  
 
 - 💻 **Favorite Language: C++**  
-  I love C++, but I also use other languages!  
+  I love C++, but I also use other languages as needed.
 
 - 🤔 **Math**  
   Not very skilled at math (still learning).  

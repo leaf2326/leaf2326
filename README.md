@@ -5,9 +5,6 @@
 - 💻 **Favorite Language: C++**  
   I love C++, but I also use other languages as needed.
 
-- 🤔 **Math**  
-  Not very skilled at math (still learning).  
-
 - 💡 **Motto**  
   "A GitHub profile should look as impressive as possible."  
 

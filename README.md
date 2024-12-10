@@ -3,11 +3,7 @@
   I pursue programming and computer science both as a hobby and academically.  
 
 - 💻 **Favorite Language: C++**  
-  I love C++, but I also use other languages as needed.
-
-- 💡 **Motto**  
-  "A GitHub profile should look as impressive as possible."
-
+  my Favorite is C++, but I also use other languages as needed.
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=leaf2326&theme=tokyonight&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- 

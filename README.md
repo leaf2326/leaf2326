@@ -13,3 +13,8 @@
 </p>
 -->
 
+### Profile Picture Credit
+
+Profile picture: Artwork by [Diana D'Achille](https://www.behance.net/dachilledesigns), licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+
+Original: [Killer Whale on Behance](https://www.behance.net/gallery/28054007/Killer-Whale)
